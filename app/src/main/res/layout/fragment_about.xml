@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    >
+    <TextView
+        android:id="@+id/tv1"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:gravity="center_horizontal"
+        android:text="@string/app_name"
+        android:textSize="24sp"
+        android:textColor="@color/colorPrimary"
+        android:textAllCaps="true" />
+
+    <TextView
+        android:id="@+id/tv2"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:gravity="center_horizontal"
+        android:textSize="20sp"
+        android:textColor="@color/colorAccent"
+        app:layout_constraintTop_toBottomOf="@+id/tv1"
+        android:text="@string/slogan"/>
+
+    <TextView
+        android:id="@+id/tv3"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        app:layout_constraintTop_toBottomOf="@+id/tv2"
+        android:gravity="center_horizontal"
+        android:text="@string/about_project"/>
+
+    <TextView
+        app:layout_constraintTop_toBottomOf="@+id/tv3"
+        android:id="@+id/tv4"
+        android:layout_marginTop="36dp"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:gravity="center_horizontal"
+        android:text="@string/about_school"/>
+
+    <TextView
+        app:layout_constraintTop_toBottomOf="@+id/tv4"
+        android:id="@+id/repo_link"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="48dp"
+        android:gravity="center_horizontal"
+        android:text="@string/aboutDev" />
+    <TextView
+        android:id="@+id/tv6"
+        app:layout_constraintTop_toBottomOf="@+id/repo_link"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="48dp"
+        android:gravity="center_horizontal"
+        android:text="Dedicated to all UEAB Students,Staff and community" />
+
+</androidx.constraintlayout.widget.ConstraintLayout>

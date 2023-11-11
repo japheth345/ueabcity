@@ -1,0 +1,302 @@
+<resources>
+    <!-- About -->
+    <string name="app_name">UeabCity</string>
+    <string name="slogan">Selling made extreemly easy.</string>
+    <string name="about_project">This is an application that enables the Baraton community to trade easily by connecting a seller to potential buyers.Here you can post any item
+    that you want to sell and get a buyer quickly. </string>
+    <string name="about_school">DESIGNED AND DEVELOPED BY:</string>
+    <string name="aboutDev">"Eng.Japho \n Tel:+254741660161"</string>
+
+    <!-- Strings related to login -->
+    <string name="prompt_email">Email</string>
+    <string name="prompt_password">Password (optional)</string>
+    <string name="title_activity_login">Sign in</string>
+    <string name="action_sign_in">Sign in or register</string>
+    <string name="action_sign_up">Sign up</string>
+    <string name="action_sign_in_short">Log in</string>
+    <string name="error_invalid_email">This email address is invalid</string>
+    <string name="error_invalid_password">This password is too short</string>
+    <string name="error_incorrect_password">This password is incorrect</string>
+    <string name="error_field_required">This field is required</string>
+    <string name="permission_rationale">"Contacts permissions are needed for providing email completion."</string>
+    <string name="logged_out">"You are currently not logged in. \n Please log in or sign up for to see this page.</string>
+
+    <!-- Strings related to fragment buttons -->
+    <string name="home_button">Home</string>
+    <string name="profile_button">Profile</string>
+    <string name="settings_button">Settings</string>
+    <string name="search_button">Search</string>
+    <string name="favorite_button">Favorites</string>
+    <string name="ebook_button">Ebooks</string>
+
+    <!-- Search Options -->
+    <string name="action_search">search</string>
+    <string name="search_string">What would you like to search for?</string>
+    <string name="search_minprice">Minimum Price</string>
+    <string name="search_maxprice">Maximum Price</string>
+    <string name="search_choose_categories">Choose a category to search for</string>
+    <string name="search_choose_subCategories">Choose a sub-category to search for</string>
+    <string-array name="search_loading">
+        <item>Loading...</item>
+    </string-array>
+    <string-array name="search_chooseCategory">
+        <item>Please choose a category first.</item>
+    </string-array>
+
+    <!-- Item details -->
+    <string name="item_name">Name</string>
+    <string name="item_price">Price</string>
+    <string name="item_photo">Item photo</string>
+    <string name="additional_info">Additional information</string>
+    <string name="item_desc">Item description</string>
+    <string name="contact_seller">Contact seller</string>
+    <string name="seller_name">Seller name</string>
+    <string name="seller_email">Seller email</string>
+
+    <!-- Profile details -->
+    <string name="profile_first_name">First Name</string>
+    <string name="profile_last_name">Last Name</string>
+    <string name="profile_email">Email</string>
+    <string name="profile_phone_number">Phone Number</string>
+    <string name="profile_postal_code">Postal Code</string>
+    <string name="profile_photo">Profile photo</string>
+    <string name="profile_update_photo">Update profile photo</string>
+
+    <!-- Profile menu options -->
+    <string name="profile_edit">Profile Edit</string>
+    <string name="profile_save">Profile Save</string>
+    <string name="profile_edit_cancel">Profile Edit Cancel</string>
+    <string name="profile_settings">Profile Settings</string>
+
+    <!-- Add item details -->
+    <string name="what_would_you_like_to_sell">What would you like to sell?</string>
+    <string name="name_of_item">Name of item</string>
+    <string name="price">Price</string>
+    <string name="description_of_the_object">Description of the object</string>
+    <string name="post_my_item">Post my item</string>
+    <string name="choose_from_gallery">Choose Image From Gallery</string>
+    <string name="take_a_photo">Photo choosen</string>
+    <string name="add_choose_categories">Choose a category</string>
+    <string name="add_choose_subCategories">Choose a sub-category</string>
+
+    <!-- Favorite details -->
+    <string name="no_favorites">You have no favorites!</string>
+    <string name="appid">ca-app-pub-4855658222831968~8364187201</string>
+    <string name="home">ca-app-pub-4855658222831968/1024753234</string>
+    <string name="search">ca-app-pub-4855658222831968/3418982286</string>
+    <string name="add">ca-app-pub-4855658222831968/1328005560</string>
+    <string name="profile">ca-app-pub-4855658222831968/8516408057</string>
+    <string name="favourite">ca-app-pub-4855658222831968/7701842227</string>
+    <string name="item">ca-app-pub-4855658222831968/1080593558</string>
+
+    <string-array name="CountryCodes">
+        <item>93,AF</item>
+        <item>355,AL</item>
+        <item>213,DZ</item>
+        <item>376,AD</item>
+        <item>244,AO</item>
+        <item>672,AQ</item>
+        <item>54,AR</item>
+        <item>374,AM</item>
+        <item>297,AW</item>
+        <item>61,AU</item>
+        <item>43,AT</item>
+        <item>994,AZ</item>
+        <item>973,BH</item>
+        <item>880,BD</item>
+        <item>375,BY</item>
+        <item>32,BE</item>
+        <item>501,BZ</item>
+        <item>229,BJ</item>
+        <item>975,BT</item>
+        <item>591,BO</item>
+        <item>387,BA</item>
+        <item>267,BW</item>
+        <item>55,BR</item>
+        <item>673,BN</item>
+        <item>359,BG</item>
+        <item>226,BF</item>
+        <item>95,MM</item>
+        <item>257,BI</item>
+        <item>855,KH</item>
+        <item>237,CM</item>
+        <item>1,CA</item>
+        <item>238,CV</item>
+        <item>236,CF</item>
+        <item>235,TD</item>
+        <item>56,CL</item>
+        <item>86,CN</item>
+        <item>61,CX</item>
+        <item>61,CC</item>
+        <item>57,CO</item>
+        <item>269,KM</item>
+        <item>242,CG</item>
+        <item>243,CD</item>
+        <item>682,CK</item>
+        <item>506,CR</item>
+        <item>385,HR</item>
+        <item>53,CU</item>
+        <item>357,CY</item>
+        <item>420,CZ</item>
+        <item>45,DK</item>
+        <item>253,DJ</item>
+        <item>670,TL</item>
+        <item>593,EC</item>
+        <item>20,EG</item>
+        <item>503,SV</item>
+        <item>240,GQ</item>
+        <item>291,ER</item>
+        <item>372,EE</item>
+        <item>251,ET</item>
+        <item>500,FK</item>
+        <item>298,FO</item>
+        <item>679,FJ</item>
+        <item>358,FI</item>
+        <item>33,FR</item>
+        <item>689,PF</item>
+        <item>241,GA</item>
+        <item>220,GM</item>
+        <item>995,GE</item>
+        <item>49,DE</item>
+        <item>233,GH</item>
+        <item>350,GI</item>
+        <item>30,GR</item>
+        <item>299,GL</item>
+        <item>502,GT</item>
+        <item>224,GN</item>
+        <item>245,GW</item>
+        <item>592,GY</item>
+        <item>509,HT</item>
+        <item>504,HN</item>
+        <item>852,HK</item>
+        <item>36,HU</item>
+        <item>91,IN</item>
+        <item>62,ID</item>
+        <item>98,IR</item>
+        <item>964,IQ</item>
+        <item>353,IE</item>
+        <item>44,IM</item>
+        <item>972,IL</item>
+        <item>39,IT</item>
+        <item>225,CI</item>
+        <item>81,JP</item>
+        <item>962,JO</item>
+        <item>7,KZ</item>
+        <item>254,KE</item>
+        <item>686,KI</item>
+        <item>965,KW</item>
+        <item>996,KG</item>
+        <item>856,LA</item>
+        <item>371,LV</item>
+        <item>961,LB</item>
+        <item>266,LS</item>
+        <item>231,LR</item>
+        <item>218,LY</item>
+        <item>423,LI</item>
+        <item>370,LT</item>
+        <item>352,LU</item>
+        <item>853,MO</item>
+        <item>389,MK</item>
+        <item>261,MG</item>
+        <item>265,MW</item>
+        <item>60,MY</item>
+        <item>960,MV</item>
+        <item>223,ML</item>
+        <item>356,MT</item>
+        <item>692,MH</item>
+        <item>222,MR</item>
+        <item>230,MU</item>
+        <item>262,YT</item>
+        <item>52,MX</item>
+        <item>691,FM</item>
+        <item>373,MD</item>
+        <item>377,MC</item>
+        <item>976,MN</item>
+        <item>382,ME</item>
+        <item>212,MA</item>
+        <item>258,MZ</item>
+        <item>264,NA</item>
+        <item>674,NR</item>
+        <item>977,NP</item>
+        <item>31,NL</item>
+        <item>599,AN</item>
+        <item>687,NC</item>
+        <item>64,NZ</item>
+        <item>505,NI</item>
+        <item>227,NE</item>
+        <item>234,NG</item>
+        <item>683,NU</item>
+        <item>850,KP</item>
+        <item>47,NO</item>
+        <item>968,OM</item>
+        <item>92,PK</item>
+        <item>680,PW</item>
+        <item>507,PA</item>
+        <item>675,PG</item>
+        <item>595,PY</item>
+        <item>51,PE</item>
+        <item>63,PH</item>
+        <item>870,PN</item>
+        <item>48,PL</item>
+        <item>351,PT</item>
+        <item>1,PR</item>
+        <item>974,QA</item>
+        <item>40,RO</item>
+        <item>7,RU</item>
+        <item>250,RW</item>
+        <item>590,BL</item>
+        <item>685,WS</item>
+        <item>378,SM</item>
+        <item>239,ST</item>
+        <item>966,SA</item>
+        <item>221,SN</item>
+        <item>381,RS</item>
+        <item>248,SC</item>
+        <item>232,SL</item>
+        <item>65,SG</item>
+        <item>421,SK</item>
+        <item>386,SI</item>
+        <item>677,SB</item>
+        <item>252,SO</item>
+        <item>27,ZA</item>
+        <item>82,KR</item>
+        <item>34,ES</item>
+        <item>94,LK</item>
+        <item>290,SH</item>
+        <item>508,PM</item>
+        <item>249,SD</item>
+        <item>597,SR</item>
+        <item>268,SZ</item>
+        <item>46,SE</item>
+        <item>41,CH</item>
+        <item>963,SY</item>
+        <item>886,TW</item>
+        <item>992,TJ</item>
+        <item>255,TZ</item>
+        <item>66,TH</item>
+        <item>228,TG</item>
+        <item>690,TK</item>
+        <item>676,TO</item>
+        <item>216,TN</item>
+        <item>90,TR</item>
+        <item>993,TM</item>
+        <item>688,TV</item>
+        <item>971,AE</item>
+        <item>256,UG</item>
+        <item>44,GB</item>
+        <item>380,UA</item>
+        <item>598,UY</item>
+        <item>1,US</item>
+        <item>998,UZ</item>
+        <item>678,VU</item>
+        <item>39,VA</item>
+        <item>58,VE</item>
+        <item>84,VN</item>
+        <item>681,WF</item>
+        <item>967,YE</item>
+        <item>260,ZM</item>
+        <item>263,ZW</item>
+    </string-array>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>
